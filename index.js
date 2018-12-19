@@ -6,4 +6,4 @@ welcomeMessage ="Welcome to Flatbook, ";
 
 welcomeMessage = "Welcome to Flatbook, " + currentUser;
 
-welcomeMessage = "Welcome to Flatbook, " + currentUser (-1);
+welcomeMessage = "Welcome to Flatbook, " + currentUser + '!';
