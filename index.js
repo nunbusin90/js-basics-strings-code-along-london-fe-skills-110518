@@ -7,3 +7,5 @@ welcomeMessage ="Welcome to Flatbook, ";
 welcomeMessage = "Welcome to Flatbook, " + currentUser;
 
 welcomeMessage = "Welcome to Flatbook, " + currentUser + '!';
+
+excitedWelcomeMessage = 
