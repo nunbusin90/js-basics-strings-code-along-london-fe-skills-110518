@@ -9,3 +9,6 @@ welcomeMessage = "Welcome to Flatbook, " + currentUser;
 welcomeMessage = "Welcome to Flatbook, " + currentUser + '!';
 
 excitedWelcomeMessage = "WELCOME TO FLATBOOK, ";
+
+excitedWelcomeMessage = "WELCOME TO FLATBOOK, " + currentUser;
+
