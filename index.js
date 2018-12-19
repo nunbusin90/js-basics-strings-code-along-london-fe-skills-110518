@@ -3,3 +3,5 @@
 currentUser = 'string';
 
 welcomeMessage ="Welcome to Flatbook, ";
+
+welcomeMessage = "Welcome to Flatbook, " + currentUser;
