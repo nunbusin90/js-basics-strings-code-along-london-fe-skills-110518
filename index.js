@@ -2,4 +2,4 @@
 
 currentUser = 'string';
 
-welcomeMessage =''
+welcomeMessage ="Welcome to Flatbook, ";
